@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "2a6dc390d4504ebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f1586b66854ba84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74fa6e76fdf5e013",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "055ea8859e274ef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab36b9efa4994c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ab8c004125741c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb859232e1a473ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c340aa01b1825af7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "35ba90c9b48019dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "76341ec80d6ac278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b22a9f2d3f7da7c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d08ce96ad726e139",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a2205743902ddfe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "560248057a3d1f37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "30bfce83c6416e0c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false
+    }
+  },
+  "active": "74fa6e76fdf5e013",
+  "lastOpenFiles": [
+    "remote-blog/publish/install-linked-blog-starter-locally.md",
+    "remote-blog/publish/how-linked-blog-starter-works.md",
+    "remote-blog/publish/attachments/how-linked-blog-starter-works.png",
+    "remote-blog/publish/attachments/github-secrets-vercel.png",
+    "remote-blog/publish/attachments/fork-linked-blog-starter-md.png",
+    "remote-blog/publish/attachments/fn-website-demo.gif",
+    "remote-blog/publish/attachments/enable-actions-github.png",
+    "remote-blog/publish/attachments/disconnect-repo-vercel.png",
+    "remote-blog/publish/attachments/create-pat-github.png",
+    "remote-blog/publish/attachments/configure-project-vercel.png",
+    "remote-blog/publish/attachments/clone-repo-git-plugin.png",
+    "remote-blog/publish/attachments/clone-or-download-github.png",
+    "remote-blog/README.md",
+    "ЗАМЕТКИ ПО ЭТИЧНОМУ ХАКИНГУ.md",
+    "remote-blog/publish/works-out-of-the-box-with-markdown-files.md",
+    "remote-blog/publish/update-publish-settings-github-actions.md",
+    "remote-blog/publish/statically-generated.md",
+    "remote-blog/publish/reinventing-the-wheel.md",
+    "remote-blog/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
+    "remote-blog/publish/linked-blog-starter-does-not-reinvent-wheel.md",
+    "remote-blog/publish/home.md",
+    "remote-blog/publish/get-project-id-account-id-and-token-vercel.md",
+    "remote-blog/publish/deploy-a-custom-linked-blog-starter.md",
+    "remote-blog/publish/connect-obsidian-vault-with-github.md",
+    "remote-blog/publish/attachments",
+    "remote-blog/publish/accepted-markdown-metadata.md",
+    "remote-blog/publish",
+    "remote-blog",
+    "ОСНОВНЫЕ ТЕРМИНЫ.md",
+    "ТЕОРИЯ.md",
+    "УРОК 1.md",
+    "Без названия.md",
+    "ПРАКТИКА.md",
+    "ОБЯЗАТЕЛЬНАЯ ЛИТЕРАТУРА.md",
+    "Welcome.md"
+  ]
+}
